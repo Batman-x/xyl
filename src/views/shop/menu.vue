@@ -42,7 +42,8 @@
         </div>
       </div>
     </div>
-
+		
+	<div>x改的</div>
     <!--模太框 -->
     <Modalbox2 :item="item" @close='hideDetail' v-if="isandon" />
   </div>

@@ -43,7 +43,7 @@
       </div>
     </div>
 		
-	<div>x改的</div>
+	<div>x改的2次</div>
     <!--模太框 -->
     <Modalbox2 :item="item" @close='hideDetail' v-if="isandon" />
   </div>
